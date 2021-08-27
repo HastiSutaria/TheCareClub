@@ -1,0 +1,38 @@
+.old{
+    float: left;
+    width: 500px;
+    height: 300px;
+    padding: 20px;
+    display: flex;
+    margin-right: 5%;
+        
+}
+.navbar{
+    background-color: rgb(77, 100, 129);
+    color: black;
+}
+.card-header{
+    background-color:rgb(77, 100, 129) ;
+    color: white;
+    text-align: center;
+    
+}
+.card-body{
+    background-color: rgb(180, 221, 219);
+    padding-right: 5%;
+    padding-left: 5%;
+    text-align: justify;
+}
+
+
+.card{
+    display: flex;
+}
+
+
+.r{
+    float: right;
+
+    margin-left: 5%;
+}
+
